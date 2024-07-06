@@ -1,0 +1,14 @@
+/outpput/
+/env/
+/.settings/
+/.externalToolBuilders/
+/cars/
+/DonkeySimWin/
+
+
+_pycache_/
+*.pyc
+
+/make/Makefile.bak
+/make/custom.mk
+/make.custom.py
